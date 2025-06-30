@@ -60,16 +60,3 @@ Returns a list of top 20 similar songs based on metadata and lyrical patterns.
 
 Feel free to fork this repo, submit issues, or contribute improvements!
 
-## 📜 License
-
-This project is under the MIT License.
-
----
-
-Created with ❤️ by Rohit Sharma
-
-```
-
----
-STREAMLIT DEPLOYMENT SOON  
-```
