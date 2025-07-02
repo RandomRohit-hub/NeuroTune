@@ -65,4 +65,3 @@ if st.button("🎶 Recommend Similar Songs"):
         st.warning("Sorry, we couldn't find similar songs.")
 
 st.markdown("---")
-st.markdown("Built with ❤️ by **Rohit Sharma**")
